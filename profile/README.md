@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+ラボとして使うorganization。
+
+知識の貯蓄とアイデアの実行。
+
 <!--
 
 **Here are some ideas to get you started:**
