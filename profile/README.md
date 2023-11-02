@@ -1,8 +1,16 @@
-## Hi there 👋
+# DZ Laboratory
 
 ラボとして使うorganization。
 
 知識の貯蓄とアイデアの実行。
+
+## Knowledge
+
+言葉で知識テクをメモする場所、作業に必要なものをここに書く
+
+## Examples
+
+Exampleで実際に各機能はどう実装するのかを機能単位でプロジェクトを作成して残す
 
 <!--
 
